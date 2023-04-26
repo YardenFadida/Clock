@@ -13,7 +13,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-
+//@YardenFadida
 public class ClockSimple extends JFrame implements ActionListener {
 	static Frame frame;
 	static JLabel title;
